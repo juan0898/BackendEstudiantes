@@ -1,0 +1,2 @@
+INSERT INTO estudiantes (nombre, edad, carrera, universidad, promedio) VALUES ('Juan Diego Mora Alvarado',26,'Ingenieria de Sistemas', 'Corhuila',4.9);
+INSERT INTO estudiantes (nombre, edad, carrera, universidad, promedio) VALUES ('Luila Ignacio Bonilla Delgado',17,'Ingenieria de Sistemas', 'Corhuila',2.9);
